@@ -1,3 +1,12 @@
+
+// problem link=> https://leetcode.com/problems/baseball-game/solutions/?envType=problem-list-v2&envId=stack&difficulty=EASY
+// topic => stack
+// level => easy
+//problem id on leetcode=>#682
+//day => 13/12/2024
+
+
+
 class Solution {
   int calPoints(List<String> operations) {
     List<int> record = [];
